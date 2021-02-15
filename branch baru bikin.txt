@@ -1,0 +1,4 @@
+apa itu brach
+-membuat cabang dari masternya
+-membantu orang yang mau kerja untuk topik yg sama
+-bisa bikin cabang
